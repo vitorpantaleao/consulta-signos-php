@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<signos xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="index1.xsd">
+
+    <signo_aries>
+        <nome>Aries</nome>
+        <data_inicio>21/03</data_inicio>
+        <data_fim>20/04</data_fim>
+        <caracteristicas>
+            Áries é o primeiro signo do zodíaco e o primeiro na trilogia do fogo - simboliza a faísca. 
+            É regido por Marte, o deus da guerra e das conquistas e traz em si as características de seu planeta regente. 
+            Áries é impaciente, intolerante e extremamente impulsivo, primeiro atira, depois pergunta o que aconteceu. 
+            As pessoas desse signo não costumam gostar de perder uma batalha, seja ela na vida prática ou emocional. 
+            São pessoas individualistas e egocêntricas, gostam de dar a última palavra e de serem as primeiras, as pioneiras em todos os assuntos. 
+            A pior característica desse signo é, sem dúvida, a dificuldade de amadurecer, especialmente no nível emocional - 
+            são eternas crianças brigando pela atenção dos pais. Arianos e arianas são independentes, competitivos, alegres, joviais, agressivos, 
+            briguentos, batalhadores, assertivos, proativos e sabem exatamente onde querem chegar. É comum encontrarmos pessoas desse signo como 
+            executivos independentes e empresários.
+        </caracteristicas>
+    </signo_aries>
+
+    <signo_touro>
+        <nome>Touro</nome>
+        <data_inicio>21/04</data_inicio>
+        <data_fim>20/05</data_fim>
+        <caracteristicas>
+            Touro é o primeiro signo do elemento terra, regido por Vênus, o planeta do amor e dos relacionamentos. 
+            Touro busca segurança no amor e na vida prática, por isso é considerado o mais estável de todos os signos. 
+            Touro é amoroso, afetuoso, dependente, acomodado, apaixonado e intenso. Taurinos e taurinas buscam por um trabalho
+            seguro e morrem de medo de aventuras. Gostam de sentir os pés bem firmes no chão e não costumam dar passos muito largos, 
+            especialmente em questões que envolvem dinheiro. São avessos a investimentos muito modernos ou que tragam qualquer risco 
+            de perdas. Aliás, perda é uma palavra que faz toda e qualquer pessoa de Touro se arrepiar. 
+            Estão entre os mais apegados e construtores de vínculos fortes e seguros. Touro deseja estabilidade, tanto que chega 
+            a se acomodar em situações que ultrapassam a paciência de qualquer outro signo. Touro aguenta, seja o que for. Fortes e determinados, 
+            não desistem até conseguirem alcançar metas e objetivos na vida pessoal e no trabalho. 
+        </caracteristicas>
+    </signo_touro>
+
+    <signo_gemeos>
+        <nome>Gêmeos</nome>
+        <data_inicio>21/05</data_inicio>
+        <data_fim>20/06</data_fim>
+        <caracteristicas>
+            O primeiro signo de ar é Gêmeos, o signo mais curioso, apelidado de borboleta do zodíaco, pela sua curiosidade, 
+            leveza e capacidade de voar de um lado a outro. Regido por Mercúrio, o deus da comunicação e do movimento, 
+            traz em si a capacidade da mediação, da notícia, das trocas intelectuais e do conhecimento. Geminianos e geminianas 
+            possuem como característica a rapidez das ideias e a facilidade de comunicar-se, seja com quem for. 
+            Ágeis, rápidos, acelerados, ansiosos e impulsivos, são comumente encontrados no mundo dos esportes, nas agências de publicidade,
+            no jornalismo e nas vendas. São dúbios, por serem dois, difíceis de lidar por conta da instabilidade e da “troca” de personalidade 
+            entre um e outro de seus representantes. De fato, geminianos e geminianas tentam, mas não conseguem ser estáveis; 
+            mudam de opinião e de gostos frequentemente e costumam fazer promessas que, no dia seguinte, já não conseguem cumprir. 
+            Infiéis por natureza, as pessoas desse signo dificilmente conseguem construir relacionamentos com vínculos firmes e duradouros.  
+        </caracteristicas>
+    </signo_gemeos>
+
+    <signo_cancer>
+        <nome>Câncer</nome>
+        <data_inicio>21/06</data_inicio>
+        <data_fim>22/07</data_fim>
+        <caracteristicas>
+            Câncer é o primeiro signo de água, regido pela Lua e, como seu luminar regente, é totalmente instável e pode viver as quatro fases lunares em um só dia. 
+            Extremamente sensíveis e absolutamente emocionais, as pessoas desse signo sabem construir vínculos afetivos profundos e duradouros, 
+            pois precisam sentir-se emocionalmente seguras em seus relacionamentos. Costumam manter as amizades por toda a vida, são aquelas pessoas que com 50 anos 
+            ainda enviam presentes à melhor amiga dos primeiros anos de escola. As pessoas desse signo costumam ser fortes, apesar de mostrarem uma certa fragilidade, 
+            são ligadas à segurança que a estrutura familiar traz a elas e, muitas vezes, extremamente ligadas ao trabalho e à carreira. 
+            As mulheres costumam ser matriarcas, ou ao menos tentam. Já os homens costumam ser extremamente dependentes e vivem em busca de uma parceria duradoura. 
+            Amam a maternidade e a paternidade e dificilmente passam pela vida sem ter filhos, mesmo que decidam não casar.   
+        </caracteristicas>
+    </signo_cancer>
+
+    <signo_leao>
+        <nome>Leão</nome>
+        <data_inicio>23/07</data_inicio>
+        <data_fim>22/08</data_fim>
+        <caracteristicas>
+            Leão é o segundo signo pertencente à trilogia do fogo e representa a chama. As pessoas de Leão são apaixonadas, possuem um ar de nobreza natural e gostam de ser
+            admiradas e apreciadas. São regidos pelo Sol, o centro do Universo, e trazem em si as características de seu luminar regente. 
+            Leoninos e leoninas não vivem sem uma boa paixão, precisam sentir o calor no coração. Podem ser arrogantes, altivos, egocêntricos e 
+            adoram um aplauso. Nada discretos, costumam chamar a atenção de todos à sua volta, seja por conta de suas colocações firmes e seguras, de sua altivez 
+            ou de sua maneira de se vestir. São entusiasmados, alegres, festivos e festeiros, indiscretos, altivos, nobres e donos da verdade. 
+            Possuem uma generosidade natural para com aqueles que amam e, quando amam apaixonadamente, conseguem ser fiéis. Quando a paixão acaba, a chama começa a 
+            apagar e isso pode ser um perigo para quem não sabe viver sem aplausos, sem o olhar apaixonado de seu parceiro ou parceira. 
+        </caracteristicas>
+    </signo_leao>
+    
+    <signo_virgem>
+        <nome>Virgem</nome>
+        <data_inicio>23/08</data_inicio>
+        <data_fim>22/09</data_fim>
+        <caracteristicas>
+            Virgem é o segundo signo de terra, regido por Mercúrio, o deus da comunicação e do conhecimento. Virginianos e virginianas gostam de dinheiro, 
+            como todo signo de terra, mas não são escravos dele. Apreciam a segurança que o dinheiro traz e gostam, como bons representantes desse elemento, 
+            de um chão firme para pisar. No entanto, possuem um lado aventureiro e amam os esportes radicais na natureza, como o alpinismo, o montanhismo, 
+            as trilhas em meio à natureza, o paraquedismo, o bungee jumping, o ciclismo de montanha. o motocross e todo esporte que envolve a natureza e um pouco de perigo.
+             Outra característica comum nas pessoas desse signo é o amor ao conhecimento. Todo virginiano ou virginiana têm uma biblioteca, mesmo que pequena, em sua casa. 
+             É um signo que cultiva a humildade, o trabalho do dia a dia, o serviço, a construção da vida tijolo por tijolo. São simples e amam cultivar a simplicidade. 
+             Discretos, fechados, reservados, emocionalmente complicados e difíceis de se entregar. A mania de limpeza, que encontramos apenas em algumas pessoas desse signo,
+             tem a ver com o sentido ético, com a limpeza de caráter e da alma, que sempre cultivam.
+        </caracteristicas>
+    </signo_virgem>
+
+    <signo_libra>
+        <nome>Libra</nome>
+        <data_inicio>23/09</data_inicio>
+        <data_fim>22/10</data_fim>
+        <caracteristicas>
+            Libra é o segundo signo do elemento ar, regido por Vênus, o planeta do amor e dos relacionamentos.
+            No entanto, diferentemente de Touro, que também é regido por Vênus, não é um signo físico, é um signo em que o amor é 
+            compreendido de uma maneira conceitual, no plano das ideias. Libra busca o equilíbrio e a harmonia em tudo o que toca, 
+            mas isso não quer dizer que as pessoas desse signo são equilibradas; a balança, símbolo deste signo, sempre pende para um 
+            lado e lá vai o libriano ou a libriana tentar equilibrá-la. Alguns autores e eu estou entre eles, consideram Libra um ariano 
+            bem educado, que envernizou suas atitudes para serem aceitas socialmente. Aliás, o maior problema das pessoas desse signo é a 
+            aceitação, por isso a dificuldade em fazer escolhas, em tomar partido, em pender para um dos lados da balança. Librianos e librianas, 
+            são gentis, amáveis, odeiam brigas e mal-entendidos, mas quando perdem a paciência, tornam-se agressivos e até mesmo violentos, 
+            mesmo odiando as atitudes e reações violentas. Amam a beleza, o caminho do meio e os ambientes que trazem em si, a marca do equilíbrio.
+        </caracteristicas>
+    </signo_libra>
+
+    <signo_escorpiao>
+        <nome>Escorpião</nome>
+        <data_inicio>23/10</data_inicio>
+        <data_fim>21/11</data_fim>
+        <caracteristicas>
+            Escorpião é o segundo signo de água, também extremamente sensível e profundo, ligado ao mundo emocional. 
+            Intensos, são regidos por Plutão, o deus dos infernos pessoais e coletivos. Não existe uma pessoa desse signo que seja superficial, 
+            todos trazem em si o contato com as profundezas de seu ser. Sensuais, mas pouco compreendidos, buscam o sexo perfeito, 
+            a união de almas e não somente orgasmos. Escorpianos e escorpianas costumam conhecer as entranhas mais difíceis da vida e 
+            conseguem sentir um cheiro forte e desagradável em todos os ambientes e pessoas, pois sabem que todos possuímos um inferno particular, 
+            um lado sombrio dentro de nós. As pessoas desse signo são desconfiadas, misteriosas, reservadas, discretas, emotivas,
+            afetuosas e conhecidas por seu ciúme, possessividade e necessidade de vingança quando seu orgulho é ferido. 
+            São trabalhadores, ligados a dinheiro, leais, fiéis e buscam relacionamentos profundos, significativos, emocionalmente estáveis, 
+            apesar da dificuldade e duradouros. Não gostam de mudanças e buscam o autoconhecimento. 
+        </caracteristicas>
+    </signo_escorpiao>
+
+    <signo_sagitario>
+        <nome>Sagitário</nome>
+        <data_inicio>22/11</data_inicio>
+        <data_fim>21/12</data_fim>
+        <caracteristicas>
+            Sagitário é o terceiro signo do elemento fogo e representa as cinzas. 
+            Regidas por Júpiter, o maior planeta do zodíaco, sagitarianos e sagitarianas 
+            costumam ser exagerados, excêntricos, arrogantes, indiscretos, inconvenientes com 
+            suas verdades assertivas, aventureiros e amantes do conhecimento. Altivos e agressivos, 
+            são representados pelo Centauro, o ser mitológico que é metade homem e metade cavalo. 
+            A metade humana está voltada para os temas superiores, que envolvem o Universo e a origem da vida e a parte animal,
+            com a vida mundana e prática. Portanto, Sagitário tem a mente voltada para o alto, para o Universo e os pés bem fincados no chão. 
+            São seres conectados à espiritualidade, ao aprendizado superior que envolve a origem e o sentido da vida, pois enquanto as pessoas 
+            desse signo não encontram um sentido para a própria vida, vivem perdidos, sem a certeza de absolutamente nada, 
+            sem saberem quem são e o que querem, tanto na vida pessoal quanto na profissional. 
+        </caracteristicas>
+    </signo_sagitario>
+
+    <signo_capricornio>
+        <nome>Capricórnio</nome>
+        <data_inicio>22/12</data_inicio>
+        <data_fim>20/01</data_fim>
+        <caracteristicas>
+            Capricórnio é o terceiro signo do elemento terra e como os outros três, busca por segurança no mundo. 
+            Regidos por Saturno, um planeta de carma e provações, costumam ser sérios e responsáveis, tanto na vida prática quanto na emocional. 
+            As pessoas desse signo são estáveis,  buscam por um lugar ao Sol e possuem enorme determinação e capacidade de 
+            construir a vida tijolo por tijolo. Aliás, todos os signos de terra possuem essa paciência natural de esperar que as coisas aconteçam em seu próprio tempo. 
+            Capricornianos e capricornianas são ambiciosos, materialistas, amam o poder e o dinheiro, buscam a cada dia subir um degrau a mais em seu 
+            caminho ao topo da montanha da vida. Constroem estruturas, na vida social e na pessoal. São ligados ao passado, à família, ao casamento tradicional, 
+            ao trabalho, à carreira e a tudo o que possa lhes trazer estruturas firmes e confiáveis. No geral, são pessoas confiáveis, 
+            tanto como parceiros amorosos quanto nos negócios. O mundo empresarial e executivo está carregado de pessoas desse signo.
+        </caracteristicas>
+    </signo_capricornio>
+
+    <signo_aquario>
+        <nome>Aquário</nome>
+        <data_inicio>21/01</data_inicio>
+        <data_fim>18/02</data_fim>
+        <caracteristicas>
+            Aquário é o terceiro signo de ar, regido por Urano, o planeta da liberdade e da rebeldia. 
+            O aquariano ou aquariana típico deve estar à frente de seu tempo nas ideias, na maneira que se veste e que vive sua vida. 
+            Com uma inteligência acima da média, as pessoas desse signo costumam ser extremamente estudiosas e curiosas, 
+            o que as leva a entender um pouco sobre todos os assuntos. Aquarianos são sociáveis, interessados, inteligentes, 
+            agitados, ansiosos, impulsivos e emocionalmente frios. Odeiam manifestações emocionais intensas. 
+            Não sabem, de fato, como nadar nas águas das emoções. As pessoas desse signo são agitadas e não costumam fazer 
+            vínculos com muita facilidade e por isso costumam fugir dos compromissos nos relacionamentos. 
+            Mas acabam se unindo a alguém, até se casam, mas a vida emocional costuma ser bastante complicada. 
+            Odeiam ser controlados e não sabem conviver com pessoas ciumentas, possessivas e cobradoras. 
+            Muitas vezes são irresponsáveis com seus relacionamentos, pois sentem imensa dificuldade de empatia. 
+        </caracteristicas>
+    </signo_aquario>
+
+    <signo_peixes>
+        <nome>Peixes</nome>
+        <data_inicio>18/02</data_inicio>
+        <data_fim>19/03</data_fim>
+        <caracteristicas>
+            Peixes é o terceiro signo de água, regido por Netuno, o deus dos oceanos. Junto com Câncer é, sem sombra de dúvidas, 
+            o signo mais sensível do zodíaco. A maioria das pessoas desse signo possui imensa dificuldade em se ajustar no mundo. 
+            Costuma colocar as questões humanas à frente de tudo, por isso tem imensa dificuldade em se adaptar ao sistema. 
+            Piscianos e piscianas possuem um radar próprio para detectar as energias invisíveis. São bastante espiritualistas, 
+            ligados às questões ocultas do mundo. As pessoas de Peixes são intensas, amorosas, bondosas, generosas, emotivas, 
+            dependentes, criam vínculos facilmente, empáticas e costumam mergulhar fundo em seu mundo emocional, desencadeando,
+            frequentemente, algum sofrimento. Peixes é um signo de sofrimento, pois, na maioria das vezes, não consegue manter 
+            um equilíbrio saudável das emoções. Piscianos e piscianas precisam de relacionamentos estáveis para que possam sentir-se seguros no mundo. 
+        </caracteristicas>
+    </signo_peixes>
+</signos>
