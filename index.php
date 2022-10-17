@@ -1,5 +1,5 @@
 <?php 
-    $xml                = simplexml_load_file('dados.xml');
+    $xml                = simplexml_load_file('assets/dados.xml');
     $data_nasc          = $_GET['data_nasc'];
     $unixTimestamp_nasc = strtotime($data_nasc);
     $data_nasc          = explode('-', $data_nasc);
@@ -56,7 +56,5 @@
                 <div id="caracteristicas"> <span>Caracteristicas: </span><?=$caracteristicas?></div>
             </form>
         </div>
-        <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-        <script src="assets/scripts.js"></script>
     </body>
 </html>
